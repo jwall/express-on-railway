@@ -14,7 +14,7 @@
     "rw": "bin/railway"
   },
   "dependencies": {
-    "jugglingdb": "git@github.com:jwall/jugglingdb.git",
+    "jugglingdb": "https://github.com/jwall/jugglingdb/tarball/master",
     "yaml": ">= 0.1.2",
     "coffee-script": ">= 1.1.1",
     "ejs-ext": ">= 0.0.8",
